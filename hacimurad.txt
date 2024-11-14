@@ -1,0 +1,4 @@
+cython --embed -o hacimuradantivirusbabaproedition.c hacimuradantivirusbabaproedition.py
+python setup.py build_ext --inplace
+cython --embed -o antiviruspro.c antiviruspro.py
+py -3.12 -m setup build

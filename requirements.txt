@@ -1,0 +1,5 @@
+PySide6
+yara-python
+cx_Freeze
+#py7zr 
+#requests
